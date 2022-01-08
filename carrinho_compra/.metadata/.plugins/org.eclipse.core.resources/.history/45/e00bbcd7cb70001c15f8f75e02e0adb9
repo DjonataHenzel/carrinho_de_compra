@@ -1,5 +1,0 @@
-package com.djonata.carrinhoCompra.carrinho_compra;
-
-public class ItemInvalidoCarrinhoException {
-
-}
